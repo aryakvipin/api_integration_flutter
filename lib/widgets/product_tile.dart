@@ -3,7 +3,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
 class ProductTile extends StatelessWidget {
-  final ProductsModel product;
+  final Prodct_model product;
   ProductTile(this.product);
 
   @override
